@@ -1,0 +1,6 @@
+Nombre de A : 140
+Nombre de E : 175
+Nombre de I : 94
+Nombre de O : 54
+Nombre de U : 82
+Nombre de Y : 3
